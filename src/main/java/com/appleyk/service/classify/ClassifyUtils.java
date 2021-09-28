@@ -18,7 +18,7 @@ public class ClassifyUtils {
     GraphInfo graphInfo= new GraphInfo();
 
     /**
-     * 治疗
+     * 通用查询
      *
      * @param reStrings
      * @return
