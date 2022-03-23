@@ -6,6 +6,10 @@ https://blog.csdn.net/u010797364/article/details/103787362
 
 # 安装Hanlp字典
 
+# 安装spark
+
+# 配置
+
 # Spring-Boot-Neo4j-Movies
 
 #### 升级Spark依赖，由原来的2.3升级到2.4，GitHub官方提醒> = 1.0.0，<= 2.3.2之间的版本容易受到攻击
