@@ -1,3 +1,7 @@
+# 导入neo4j数据
+https://blog.csdn.net/u010797364/article/details/103787362
+
+
 # Spring-Boot-Neo4j-Movies
 
 #### 升级Spark依赖，由原来的2.3升级到2.4，GitHub官方提醒> = 1.0.0，<= 2.3.2之间的版本容易受到攻击
@@ -28,6 +32,5 @@
 
 ```
 
-# 导入数据
-https://blog.csdn.net/u010797364/article/details/103787362
+
 
