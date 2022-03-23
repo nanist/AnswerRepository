@@ -1,3 +1,6 @@
+# 安装neo4j数据
+https://www.cnblogs.com/huzixia/p/10402421.html
+
 # 导入neo4j数据
 https://blog.csdn.net/u010797364/article/details/103787362
 
