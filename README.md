@@ -4,6 +4,7 @@ https://www.cnblogs.com/huzixia/p/10402421.html
 # 导入neo4j数据
 https://blog.csdn.net/u010797364/article/details/103787362
 
+# 安装Hanlp字典
 
 # Spring-Boot-Neo4j-Movies
 
