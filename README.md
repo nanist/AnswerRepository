@@ -4,11 +4,13 @@ https://www.cnblogs.com/huzixia/p/10402421.html
 # 导入neo4j数据
 https://blog.csdn.net/u010797364/article/details/103787362
 
-# 安装Hanlp字典
+# 安装训练集Hanlp字典
 
 # 安装spark
 
-# 配置
+# 项目配置
+com.appleyk.Neo4j.SessionCreater 文件里面配置 neo4j数据库
+application.properties 配置一下数据字典
 
 # Spring-Boot-Neo4j-Movies
 
