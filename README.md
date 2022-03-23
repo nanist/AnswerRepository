@@ -44,4 +44,12 @@ application.properties 配置一下数据字典
 # 启动类
 AnswerApp
 
+# 业务代码
+Controller：
+com.appleyk.controller.QuestionController
+解析neo4j类：
+com.appleyk.Neo4j.GraphInfo
+问答分类的工具类:
+neo4j 查询语句写在这里
+com.appleyk.service.classify.ClassifyUtils
 
