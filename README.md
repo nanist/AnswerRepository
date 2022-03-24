@@ -5,6 +5,8 @@ https://www.cnblogs.com/huzixia/p/10402421.html
 https://blog.csdn.net/u010797364/article/details/103787362
 
 # 安装训练集Hanlp字典
+链接：https://pan.baidu.com/s/1qlQVuSm5uiV5-_3nBsMnHA 
+提取码：3blk
 
 # 安装spark
 
